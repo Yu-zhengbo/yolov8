@@ -1,0 +1,88 @@
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road105.png 27,146,281,377,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road129.png 111,76,211,171,1 230,42,295,212,2
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road142.png 88,98,204,222,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road147.png 129,27,259,161,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road153.png 111,0,346,299,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road16.png 225,43,241,82,2 106,106,118,127,2
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road160.png 180,190,235,248,1 141,267,148,276,1 180,89,233,137,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road176.png 117,74,193,182,1 36,92,90,249,2
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road177.png 101,19,197,135,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road192.png 133,223,205,300,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road209.png 93,144,172,231,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road221.png 131,185,154,208,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road230.png 124,193,138,207,0 142,193,156,207,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road248.png 167,205,192,229,0 170,243,193,268,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road261.png 201,61,236,101,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road289.png 61,140,146,227,3 259,325,299,398,2
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road291.png 124,186,170,234,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road296.png 62,214,114,273,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road298.png 156,163,188,197,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road311.png 38,88,156,205,0 41,231,159,348,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road332.png 60,160,165,263,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road333.png 151,223,212,286,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road335.png 107,132,146,170,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road344.png 122,208,179,265,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road346.png 87,207,152,273,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road349.png 77,247,181,359,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road364.png 89,171,154,235,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road371.png 67,219,152,301,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road383.png 125,219,156,249,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road395.png 163,198,210,243,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road408.png 146,171,165,191,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road417.png 126,179,161,214,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road426.png 84,110,151,176,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road446.png 124,110,190,179,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road448.png 81,186,111,216,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road452.png 94,164,167,238,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road455.png 164,184,199,221,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road460.png 149,311,228,390,1 91,297,138,399,2 99,125,170,200,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road482.png 104,168,168,232,0 263,194,300,290,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road489.png 130,143,177,188,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road49.png 84,34,124,117,2 134,121,151,154,2
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road496.png 47,165,72,201,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road497.png 101,161,130,198,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road502.png 222,78,298,177,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road511.png 114,160,169,213,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road512.png 141,170,166,195,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road526.png 143,167,192,217,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road540.png 145,271,183,309,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road56.png 98,95,216,211,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road560.png 145,254,189,298,1 147,211,188,252,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road573.png 69,315,163,399,1 65,214,159,308,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road578.png 223,134,270,180,1 223,92,265,133,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road594.png 160,1,277,109,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road599.png 98,51,204,155,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road604.png 76,94,123,142,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road605.png 73,93,137,157,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road616.png 115,161,135,180,0 37,182,47,192,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road62.png 126,113,215,201,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road633.png 98,107,137,145,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road635.png 97,101,150,154,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road652.png 135,174,153,191,0 80,182,93,196,0 99,165,116,183,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road658.png 82,173,115,205,1 197,176,238,217,0 21,211,47,237,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road665.png 55,302,145,395,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road671.png 161,176,178,193,0 75,202,84,211,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road678.png 142,187,177,225,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road680.png 156,123,203,175,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road682.png 100,212,148,260,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road685.png 84,190,168,274,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road708.png 121,139,192,213,0 122,255,193,329,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road713.png 99,211,150,261,0 99,134,150,183,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road717.png 90,219,109,240,0 116,220,136,240,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road719.png 116,209,141,234,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road733.png 113,88,188,161,0 118,200,192,274,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road735.png 118,202,137,220,0 118,232,135,250,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road76.png 29,91,162,233,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road766.png 134,188,174,227,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road774.png 186,162,207,186,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road775.png 109,130,150,170,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road787.png 116,170,148,201,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road799.png 168,187,206,225,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road800.png 189,184,237,232,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road82.png 58,55,208,206,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road838.png 105,161,129,184,0 120,244,145,272,1
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road851.png 113,118,134,139,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road856.png 129,71,173,115,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road870.png 173,51,276,153,0
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road872.png 84,203,117,236,0 222,262,233,276,3
+D:\浏览器下载\roadsign_voc/VOC2007/JPEGImages/road874.png 93,129,136,174,0 84,205,96,217,0 192,224,205,239,3

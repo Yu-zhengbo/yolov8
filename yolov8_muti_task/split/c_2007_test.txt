@@ -1,0 +1,52 @@
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_113.jpg 649,183,751,397,0 557,251,621,383,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_12.jpg 557,251,619,383,0 648,184,751,398,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_121.jpg 1,1,250,471,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_138.jpg 533,1,909,524,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_149.jpg 907,31,1124,434,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_150.jpg 841,21,1057,437,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_16.jpg 421,162,541,403,0 653,1,902,453,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_174.jpg 633,126,784,412,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_18.jpg 556,252,619,383,0 647,183,751,398,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_189.jpg 741,1,1020,462,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_193.jpg 797,1,1160,500,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_202.jpg 915,113,1077,415,0 924,1,1280,644,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_204.jpg 886,123,1019,415,0 871,1,1280,629,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_212.jpg 558,252,621,382,0 649,183,752,398,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_214.jpg 498,1,884,521,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_219.jpg 516,1,1195,667,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_23.jpg 647,183,750,397,0 556,252,618,383,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_233.jpg 400,1,757,502,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_235.jpg 649,184,751,397,0 558,251,620,382,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_246.jpg 649,183,751,398,0 558,252,620,382,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_25.jpg 648,183,750,397,0 555,251,618,383,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_255.jpg 351,1,901,595,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_270.jpg 370,159,496,405,0 329,1,687,501,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_273.jpg 121,1,645,574,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_274.jpg 162,1,728,591,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_275.jpg 650,180,753,398,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_286.jpg 325,1,769,526,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_303.jpg 170,1,701,570,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_310.jpg 194,1,757,591,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_321.jpg 201,1,731,539,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_335.jpg 552,249,626,389,0 642,177,759,406,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_374.jpg 195,132,325,412,0 141,1,562,524,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_379.jpg 552,245,629,388,0 641,178,760,409,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_399.jpg 839,17,1083,465,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_409.jpg 1,1,316,585,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_430.jpg 556,247,625,388,0 644,177,759,405,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_432.jpg 548,247,628,388,0 641,178,759,401,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_435.jpg 548,247,633,388,0 643,179,759,401,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_441.jpg 553,244,627,391,0 643,177,761,405,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_445.jpg 556,247,626,385,0 644,181,759,402,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_462.jpg 556,247,625,387,0 644,181,764,406,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_468.jpg 554,249,622,388,0 642,182,760,403,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_481.jpg 550,250,627,384,0 637,181,762,405,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_484.jpg 553,248,626,387,0 643,180,758,403,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_496.jpg 552,247,623,389,0 644,173,758,409,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_511.jpg 551,248,626,388,0 643,178,758,403,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_53.jpg 640,26,848,452,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_59.jpg 552,244,629,390,0 643,181,757,405,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_67.jpg 552,233,632,390,0 654,137,797,416,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_74.jpg 539,215,630,399,0 659,68,847,431,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_83.jpg 527,168,653,405,0 690,1,1022,486,0
+D:\浏览器下载\barricade/VOC2007/JPEGImages/train_95.jpg 544,95,698,420,0
